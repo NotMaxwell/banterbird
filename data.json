@@ -1,6 +1,11 @@
 [
-    { "username": "alvin",
-      "message": "im baaack"
+    {
+        "username": "admin",
+        "message": "test\n"
+    },
+    {
+        "username": "alvin",
+        "message": "im baaack"
     },
     {
         "username": "admin",
